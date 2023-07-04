@@ -1,0 +1,20 @@
+{
+  "name": "apiProyectoPelicula",
+  "version": "1.0.0",
+  "description": "TMDB Explorer es una aplicación poderosa para explorar películas y series de televisión que utiliza HTML, CSS y JavaScript. Con esta aplicación, los usuarios pueden descubrir de manera intuitiva y atractiva películas, series, actores e imágenes relacionadas. La aplicación consume la API de TMDb (The Movie Database), la cual proporciona acceso a una amplia colección de información sobre la industria del cine y la televisión.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salvadorpro1/TMDB-Explorer.git"
+  },
+  "keywords": [],
+  "author": "Salvador Sanchez <Salvadorpro1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/salvadorpro1/TMDB-Explorer/issues"
+  },
+  "homepage": "https://github.com/salvadorpro1/TMDB-Explorer#readme"
+}
