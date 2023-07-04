@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SalvasScript/movie-list.git"
+    "url": "git+https://github.com/SalvasScript/TMDB-Explorer.git"
   },
   "keywords": [],
-  "author": "Salvador Sanchez <Salvadorpro1@gmail.com>",
+  "author": "Salvador Sanchez <salvasanchezscriptoficial@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SalvasScript/movie-list/issues"
+    "url": "https://github.com/SalvasScript/TMDB-Explorer/issues"
   },
-  "homepage": "https://github.com/SalvasScript/movie-list#readme"
+  "homepage": "https://github.com/SalvasScript/TMDB-Explorer#readme"
 }
