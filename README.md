@@ -15,4 +15,3 @@ TMDB Explorer es una aplicación poderosa para explorar películas y series de t
 ## Licencia
 
 MIT
-
